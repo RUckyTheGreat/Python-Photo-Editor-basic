@@ -1,2 +1,2 @@
 # Python-Photo-Editor-basic
-Pyqt5 &amp; pillow
+need : Pyqt5 &amp; pillow
